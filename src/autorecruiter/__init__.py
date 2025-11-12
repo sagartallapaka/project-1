@@ -1,0 +1,1 @@
+"""AutoRecruiter AI package."""
